@@ -1,2 +1,2 @@
-# GPN_Intelligence_CUP_2019
-Repo with GPN Intelligence CUP 2019 solution
+# GPN Intelligence CUP 2019
+This repository contains an answer to "GPN Intelligence CUP 2019" (Data Science competittion).

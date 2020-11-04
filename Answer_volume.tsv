@@ -1,0 +1,175 @@
+year	month	location	sku_id	volume
+2019	7	Alpha City	sku #79	15627.9795
+2019	7	Alpha City	sku #106	4143.2466
+2019	7	Alpha City	sku #15	16937.309
+2019	7	Alpha City	sku #16	8817.326
+2019	7	Alpha City	sku #22	17023.648
+2019	7	Alpha City	sku #28	3755.5864
+2019	7	Alpha City	sku #30	17881.502
+2019	7	Alpha City	sku #31	1253.1382
+2019	7	Alpha City	sku #38	2205.8826
+2019	7	Alpha City	sku #41	1869.6306
+2019	7	Alpha City	sku #46	3555.1956
+2019	7	Alpha City	sku #48	6995.5903
+2019	7	Alpha City	sku #49	5153.4307
+2019	7	Alpha City	sku #94	1608.8953
+2019	7	Alpha City	sku #25	8698.459
+2019	7	Alpha City	sku #73	5595.1733
+2019	7	Alpha City	sku #78	5815.2373
+2019	7	Alpha City	sku #100	3631.034
+2019	7	Alpha City	sku #76	2691.5627
+2019	7	Alpha City	sku #77	3915.2292
+2019	7	Alpha City	sku #97	4710.4204
+2019	7	Moon	sku #79	1913.9403
+2019	7	Moon	sku #16	4230.3403
+2019	7	Moon	sku #22	9133.967
+2019	7	Moon	sku #28	4486.4976
+2019	7	Moon	sku #30	5528.4043
+2019	7	Moon	sku #41	1204.8153
+2019	7	Moon	sku #46	4053.3062
+2019	7	Moon	sku #48	5230.6777
+2019	7	Moon	sku #25	1405.4497
+2019	7	Moon	sku #73	789.10876
+2019	7	Moon	sku #100	289.92114
+2019	7	Moon	sku #76	435.12573
+2019	7	Moon	sku #77	483.55292
+2019	7	Moon	sku #97	1067.7562
+2019	7	Pirate Bay	sku #79	1325.8196
+2019	7	Pirate Bay	sku #105	1698.4418
+2019	7	Pirate Bay	sku #106	2178.764
+2019	7	Pirate Bay	sku #15	5539.3433
+2019	7	Pirate Bay	sku #16	8489.544
+2019	7	Pirate Bay	sku #22	13281.957
+2019	7	Pirate Bay	sku #28	5637.394
+2019	7	Pirate Bay	sku #30	7095.4385
+2019	7	Pirate Bay	sku #38	1302.2144
+2019	7	Pirate Bay	sku #41	1397.8484
+2019	7	Pirate Bay	sku #46	4463.7246
+2019	7	Pirate Bay	sku #48	6823.4736
+2019	7	Pirate Bay	sku #49	1501.0923
+2019	7	Pirate Bay	sku #42	133.20903
+2019	7	Pirate Bay	sku #67	305.27917
+2019	7	Pirate Bay	sku #94	458.13266
+2019	7	Pirate Bay	sku #25	4634.6855
+2019	7	Pirate Bay	sku #73	2346.4475
+2019	7	Pirate Bay	sku #78	908.17487
+2019	7	Pirate Bay	sku #100	1952.6024
+2019	7	Pirate Bay	sku #76	3284.518
+2019	7	Pirate Bay	sku #77	3849.3853
+2019	7	Pirate Bay	sku #97	5149.0117
+2019	8	Alpha City	sku #79	9950.676
+2019	8	Alpha City	sku #106	3423.0479
+2019	8	Alpha City	sku #15	13276.258
+2019	8	Alpha City	sku #16	7698.6196
+2019	8	Alpha City	sku #22	14889.3955
+2019	8	Alpha City	sku #28	3828.1653
+2019	8	Alpha City	sku #30	12490.3955
+2019	8	Alpha City	sku #31	841.6945
+2019	8	Alpha City	sku #38	2037.0319
+2019	8	Alpha City	sku #41	2283.4814
+2019	8	Alpha City	sku #46	3403.9336
+2019	8	Alpha City	sku #48	5763.9185
+2019	8	Alpha City	sku #49	3818.8086
+2019	8	Alpha City	sku #94	1660.9979
+2019	8	Alpha City	sku #25	6218.5522
+2019	8	Alpha City	sku #73	4488.181
+2019	8	Alpha City	sku #78	4544.9395
+2019	8	Alpha City	sku #100	2204.8618
+2019	8	Alpha City	sku #76	3481.59
+2019	8	Alpha City	sku #77	4092.6953
+2019	8	Alpha City	sku #97	5367.231
+2019	8	Moon	sku #79	1858.6696
+2019	8	Moon	sku #16	4116.8027
+2019	8	Moon	sku #22	8960.522
+2019	8	Moon	sku #28	3684.6936
+2019	8	Moon	sku #30	6378.624
+2019	8	Moon	sku #41	1160.895
+2019	8	Moon	sku #46	4264.7725
+2019	8	Moon	sku #48	4803.7876
+2019	8	Moon	sku #25	2228.7874
+2019	8	Moon	sku #73	1739.1128
+2019	8	Moon	sku #100	893.1127
+2019	8	Moon	sku #76	417.182
+2019	8	Moon	sku #77	503.67996
+2019	8	Moon	sku #97	1052.3624
+2019	8	Pirate Bay	sku #79	850.8434
+2019	8	Pirate Bay	sku #105	808.75793
+2019	8	Pirate Bay	sku #106	1373.6709
+2019	8	Pirate Bay	sku #15	1423.3175
+2019	8	Pirate Bay	sku #16	7238.199
+2019	8	Pirate Bay	sku #22	11290.209
+2019	8	Pirate Bay	sku #28	5659.627
+2019	8	Pirate Bay	sku #30	8375.773
+2019	8	Pirate Bay	sku #38	1054.5339
+2019	8	Pirate Bay	sku #41	1410.194
+2019	8	Pirate Bay	sku #46	4469.3076
+2019	8	Pirate Bay	sku #48	6460.203
+2019	8	Pirate Bay	sku #49	1498.2859
+2019	8	Pirate Bay	sku #42	120.55726
+2019	8	Pirate Bay	sku #67	371.14792
+2019	8	Pirate Bay	sku #94	208.97649
+2019	8	Pirate Bay	sku #25	3043.8948
+2019	8	Pirate Bay	sku #73	2087.1858
+2019	8	Pirate Bay	sku #78	388.8705
+2019	8	Pirate Bay	sku #100	1460.9255
+2019	8	Pirate Bay	sku #76	2767.2773
+2019	8	Pirate Bay	sku #77	3281.6777
+2019	8	Pirate Bay	sku #97	4366.5723
+2019	9	Alpha City	sku #79	9156.888
+2019	9	Alpha City	sku #106	3141.654
+2019	9	Alpha City	sku #15	14412.073
+2019	9	Alpha City	sku #16	7393.6304
+2019	9	Alpha City	sku #22	16871.367
+2019	9	Alpha City	sku #28	3820.1304
+2019	9	Alpha City	sku #30	14434.349
+2019	9	Alpha City	sku #31	765.889
+2019	9	Alpha City	sku #38	2155.0435
+2019	9	Alpha City	sku #41	2872.377
+2019	9	Alpha City	sku #46	3972.4521
+2019	9	Alpha City	sku #48	6026.637
+2019	9	Alpha City	sku #49	3902.9956
+2019	9	Alpha City	sku #94	1539.2605
+2019	9	Alpha City	sku #25	6643.103
+2019	9	Alpha City	sku #73	4693.5166
+2019	9	Alpha City	sku #78	4074.3066
+2019	9	Alpha City	sku #100	2604.059
+2019	9	Alpha City	sku #76	3450.7888
+2019	9	Alpha City	sku #77	3758.5896
+2019	9	Alpha City	sku #97	4833.5312
+2019	9	Moon	sku #79	1893.8611
+2019	9	Moon	sku #16	4311.9424
+2019	9	Moon	sku #22	8824.474
+2019	9	Moon	sku #28	3989.4717
+2019	9	Moon	sku #30	5830.876
+2019	9	Moon	sku #41	1271.7925
+2019	9	Moon	sku #46	3797.4585
+2019	9	Moon	sku #48	4908.646
+2019	9	Moon	sku #25	1608.4908
+2019	9	Moon	sku #73	780.8593
+2019	9	Moon	sku #100	287.80426
+2019	9	Moon	sku #76	450.39246
+2019	9	Moon	sku #77	530.1165
+2019	9	Moon	sku #97	1062.2517
+2019	9	Pirate Bay	sku #79	627.26263
+2019	9	Pirate Bay	sku #105	749.36395
+2019	9	Pirate Bay	sku #106	1626.0675
+2019	9	Pirate Bay	sku #15	805.4863
+2019	9	Pirate Bay	sku #16	6954.641
+2019	9	Pirate Bay	sku #22	10739.363
+2019	9	Pirate Bay	sku #28	5294.3994
+2019	9	Pirate Bay	sku #30	7927.3306
+2019	9	Pirate Bay	sku #38	1327.6975
+2019	9	Pirate Bay	sku #41	1897.487
+2019	9	Pirate Bay	sku #46	3914.458
+2019	9	Pirate Bay	sku #48	5350.1963
+2019	9	Pirate Bay	sku #49	1444.9196
+2019	9	Pirate Bay	sku #42	174.28621
+2019	9	Pirate Bay	sku #67	365.72388
+2019	9	Pirate Bay	sku #94	90.41593
+2019	9	Pirate Bay	sku #25	2857.523
+2019	9	Pirate Bay	sku #73	2142.5913
+2019	9	Pirate Bay	sku #78	527.7276
+2019	9	Pirate Bay	sku #100	1415.1367
+2019	9	Pirate Bay	sku #76	3310.2861
+2019	9	Pirate Bay	sku #77	3657.8247
+2019	9	Pirate Bay	sku #97	5210.46
